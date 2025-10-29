@@ -408,12 +408,6 @@ pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/1x1x1x1/refs/heads/main/Main.txt"))()
     print("✅ Script 1x1x1x1 executado com sucesso!")
 end)
-
-pcall(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/267266273ffsfs/1x1x1x1speed/refs/heads/main/Main.txt"))()
-    print("✅ Script 1x1x1x1speed executado com sucesso!")
-end)
-
 -- ===========================================
 -- RELATÓRIO FINAL
 -- ===========================================
